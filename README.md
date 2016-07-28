@@ -1,8 +1,33 @@
-# Enrollment
+% Padiglione di Barcellona
+% Antonio Gómez Lucas
+% Giovedì, Luglio 28, 2016
 
-1. Signup to GitHub
-2. Ask to join [CVDLAB Facebook group](https://www.facebook.com/groups/cvdlab/)
-3. Fill in the [enrollment spreadsheet](https://docs.google.com/spreadsheets/d/1ueUbo8a59yo1pGvdxdQ09Ki5AdT6VwdbWKG4ioirXTA/edit?usp=sharing)
+## Indice
+
+\tableofcontents
+
+
+# Storia
+
+## Storia
+
+
+*	Opere dell'architetto tedesco .[Ludwig Mies van der Rohe](https://www.google.it/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ludwig+mies+van+der+rohe).
+*	Costruito per la Esposizione Universale di Barcellona nel 1929.
+*	Introdusse alcune significative innovazioni, sfruttando i principi di "pianta libera" e degli "spazi fluenti.
+*	L'edificio voleva rappresentare la nuova Germania, democratica, culturalmente all'avanguardia, prospera e pacifista della repubblica di Weimar.
+*	L'edificio fu distrutto all'inizio del 1930.
+*	Fu ricostruito negli anni 80’ nel quartiere di Montjuic.
+
+
+
+# Disegno
+
+## Disegno
+
+\setlength{\fboxsep}{0pt}
+\setlength{\fboxrule}{2pt}
+\fbox{\includegraphics[trim = 1mm 5.4mm 1mm 1mm, clip]{image/disegno1}}
 
 # Computational Graphics
 
@@ -47,13 +72,4 @@
 | 35 | Mon, May, 30| [brute-force line intersection](lessons/2016-05-30/) | coding |
 | 36 | Tue, May, 31| [home assignment](lessons/2016-05-31/) | coding |
 | 37 | Mon, Jun, 6| [Solid Modeling, LAR](lessons/2016-06-06/) | modeling |
-
-## Teacher
-
-- [Alberto Paoluzzi](http://paoluzzi.dia.uniroma3.it/)
-
-## Teaching assistants
-
-- [Enrico Marino](http://enricomarino.com)
-- [Federico Spini](http://federicospini.com)
 
